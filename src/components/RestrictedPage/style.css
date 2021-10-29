@@ -1,0 +1,22 @@
+.conteiner{
+    font-size: 0.8rem;
+    background-color: rgb(180, 179, 179);
+    color: #282c34;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    height: 200px;
+}
+
+button{
+    font-size: 1.2rem;
+    border-radius: 15px;
+    width: 150px;
+    padding: 5px 0 5px 0;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+button:hover{
+    background-color: thistle;
+}
